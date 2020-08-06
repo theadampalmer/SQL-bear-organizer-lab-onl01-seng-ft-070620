@@ -7,4 +7,4 @@
 -- (7,"Wendy", 6, "female", "Blue", "playful", 1),
 -- (8, null, 20, "male", "black", "wicked", 0);
 
-INSERT INTO bears 
+INSERT INTO bears (name) values 
