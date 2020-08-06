@@ -6,3 +6,5 @@
 -- (6,"Grinch", 2, "male", "black", "unfriendly", 1),
 -- (7,"Wendy", 6, "female", "Blue", "playful", 1),
 -- (8, null, 20, "male", "black", "wicked", 0);
+
+INSERT INTO bears 
